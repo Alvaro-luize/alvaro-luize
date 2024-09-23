@@ -1,4 +1,4 @@
-## _olá, seja bem-vindo(a)_🖐️
+_olá, seja bem-vindo(a)🖐️_
 
 - estou fazendo o alura
 - estou aprendendo a línguagem javaScript
