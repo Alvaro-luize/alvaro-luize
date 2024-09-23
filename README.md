@@ -1,5 +1,8 @@
-## Hi there 👋
+## _olá, seja bem-vindo(a)_🖐️
 
+- estou fazendo o alura
+- estou aprendendo a línguagem javaScript
+- utilizarei o site para organizar meus projetos
 <!--
 **Alvaro-luize/alvaro-luize** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
